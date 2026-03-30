@@ -1,18 +1,18 @@
-# 📝 Task Tracker (Command-Line Application)
+#  Task Tracker (Command-Line Application)
 
 A modular and efficient **Command-Line Task Management System** built in Python.
 This application enables users to manage daily tasks with structured workflows, persistent storage, and clean code practices following modern Python development standards.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 The Task Tracker is designed to simplify task management directly from the terminal.
 It supports full CRUD operations, task status tracking, and modular architecture, making it both user-friendly and developer-friendly.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Task Management**
 
@@ -41,7 +41,7 @@ It supports full CRUD operations, task status tracking, and modular architecture
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 
 ```id="nq6ot6"
 task-tracker/
@@ -62,7 +62,7 @@ task-tracker/
 
 ---
 
-## ⚙️ Technology Stack
+##  Technology Stack
 
 * **Python** (Core language)
 * **uv** (Modern package & environment manager)
@@ -71,7 +71,7 @@ task-tracker/
 
 ---
 
-## 🔧 Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the repository
 
@@ -100,7 +100,7 @@ uv sync
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the application:
 
@@ -112,7 +112,7 @@ Follow the interactive menu to perform task operations.
 
 ---
 
-## 🧠 Architecture
+##  Architecture
 
 The project follows a modular design:
 
@@ -125,7 +125,7 @@ This separation improves readability, maintainability, and scalability.
 
 ---
 
-## 🧪 Code Quality & Formatting
+##  Code Quality & Formatting
 
 ### Linting (Ruff)
 
@@ -142,7 +142,7 @@ uv run black .
 
 ---
 
-## 🔁 Development Workflow
+##  Development Workflow
 
 ```id="uyk3oj"
 uv run ruff check . --fix
@@ -152,7 +152,7 @@ uv run ruff check .
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 * Task search functionality
 * Priority levels and due dates
@@ -162,13 +162,13 @@ uv run ruff check .
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Chandresh Sharma**
 
 ---
 
-## 📌 Note
+##  Note
 
 This project demonstrates practical implementation of:
 
@@ -177,8 +177,4 @@ This project demonstrates practical implementation of:
 * Modern Python tooling
 * CLI-based application design
 
----
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a ⭐ on GitHub.
